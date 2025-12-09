@@ -1,5 +1,5 @@
 const downloadUrl =
-  "https://github.com/E-m-i-n-e-n-c-e/Revent/releases/download/beta2/REvent.v0.4.2-beta.apk";
+  "https://github.com/E-m-i-n-e-n-c-e/Revent/releases/download/beta3/REvent.v0.4.2-beta.apk";
 const downloadButton = document.getElementById("downloadButton");
 downloadButton.textContent = "Download";
 downloadButton.disabled = false;
